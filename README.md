@@ -7,6 +7,11 @@ The AES system utilizes the **Deep Learning BERT** (Bidirectional Encoder Repres
 <a href=https://github.com/Quan25/flask-summary/blob/master/guides.pdf> Document</a>
 </details>
 
+<details>
+<summary>AES Project Presentation</summary>
+<a href=https://github.com/Nisarg2612/Cloud_Computing/blob/main/CS571_AES_Project_Presentation.pdf> Google Slides Presentation</a>
+</details>
+
 ## Run the Service on VM
 
 Create a **new project** on **GCP**
