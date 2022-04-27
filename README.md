@@ -8,6 +8,11 @@ The AES system utilizes the **Deep Learning BERT** (Bidirectional Encoder Repres
 </details>
 
 <details>
+<summary>Instructions of the project design, configuration and deployment</summary>
+<a href=https://github.com/Nisarg2612/Cloud_Computing/blob/main/CS571_Week11_Q5_19619_Nisarg_Patel.pdf> Project Instructions</a>
+</details>
+
+<details>
 <summary>AES Project Presentation</summary>
 <a href=https://github.com/Nisarg2612/Cloud_Computing/blob/main/CS571_AES_Project_Presentation.pdf> Google Slides Presentation</a>
 </details>
